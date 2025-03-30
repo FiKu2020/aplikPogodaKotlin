@@ -1,4 +1,5 @@
-package com.example.simpleui
+package com.example.aplikacjapogoda
+
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
